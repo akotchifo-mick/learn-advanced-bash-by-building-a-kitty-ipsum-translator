@@ -68,3 +68,4 @@ __vsc_prompt_cmd_original
 echo bad_command 2> script.sh
 echo bad_command >> script.sh
 ./script.sh
+./script.sh
