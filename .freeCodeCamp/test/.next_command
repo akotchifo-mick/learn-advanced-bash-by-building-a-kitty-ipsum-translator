@@ -54,3 +54,5 @@ cat Lordis
 cat stdout.txt
 echo Lordis
 touch script.sh
+chmod + x script.sh
+chmod +x script.sh
