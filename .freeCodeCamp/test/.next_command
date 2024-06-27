@@ -63,3 +63,5 @@ echo
 echo
 echo
 echo read NAME > script.sh
+echo print Hello $NAME > script.sh
+__vsc_prompt_cmd_original
