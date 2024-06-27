@@ -65,3 +65,5 @@ echo
 echo read NAME > script.sh
 echo print Hello $NAME > script.sh
 __vsc_prompt_cmd_original
+echo bad_command 2> script.sh
+echo bad_command >> script.sh
