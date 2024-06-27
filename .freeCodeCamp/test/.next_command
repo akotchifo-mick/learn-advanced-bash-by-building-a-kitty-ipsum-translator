@@ -53,3 +53,4 @@ cat Lordis < name.txt
 cat Lordis
 cat stdout.txt
 echo Lordis
+touch script.sh
