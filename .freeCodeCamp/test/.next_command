@@ -49,3 +49,7 @@ cat
 cat name.txt
 cat name.txt > name.txt
 cat < name.txt
+cat Lordis < name.txt
+cat Lordis
+cat stdout.txt
+echo Lordis
