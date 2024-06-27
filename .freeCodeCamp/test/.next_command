@@ -62,3 +62,4 @@ echo lordis > script.sh
 echo
 echo
 echo
+echo read NAME > script.sh
