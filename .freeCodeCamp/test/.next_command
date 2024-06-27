@@ -69,3 +69,4 @@ echo bad_command 2> script.sh
 echo bad_command >> script.sh
 ./script.sh
 ./script.sh
+echo Lordis
