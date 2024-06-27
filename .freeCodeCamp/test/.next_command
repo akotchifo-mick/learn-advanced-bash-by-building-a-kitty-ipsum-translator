@@ -70,3 +70,5 @@ echo bad_command >> script.sh
 ./script.sh
 ./script.sh
 echo Lordis
+echo Lordis
+echo Lordis
