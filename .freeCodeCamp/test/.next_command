@@ -56,3 +56,9 @@ echo Lordis
 touch script.sh
 chmod + x script.sh
 chmod +x script.sh
+echo
+echo
+echo lordis > script.sh
+echo
+echo
+echo
