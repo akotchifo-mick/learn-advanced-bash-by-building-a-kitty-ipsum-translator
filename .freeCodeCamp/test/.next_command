@@ -43,3 +43,4 @@ read < name.txt
 read NAME < name.txt
 echp $NAME
 echo $NAME
+echo Lordis
