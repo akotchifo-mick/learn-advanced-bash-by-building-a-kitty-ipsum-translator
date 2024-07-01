@@ -133,3 +133,5 @@ echo Lordis
 ./script.sh < name.txt 2> stderr.txt > stdout.txt
 clear
 cat kitty_ipsum_1.txt
+__vsc_prompt_cmd_original
+cat kitty_ipsum_2.txt
