@@ -160,3 +160,4 @@ wc -m < kitty_ipsum_1.txt >> kitty_info.txt
 grep 'meow' kitty_ipsum_1.txt
 man grep
 __vsc_prompt_cmd_original
+grep --color 'meow' kitty_ipsum_1.txt
