@@ -240,3 +240,4 @@ cat $1
 ./translate.sh kitty_ipsum_.txt
 ./translate.sh kitty_ipsum_2.txt
 ./translate.sh kitty_ipsum_1.txt > doggy_ipsum_1.txt
+cat doggy_ipsum_1.txt
