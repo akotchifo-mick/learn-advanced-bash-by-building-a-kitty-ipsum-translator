@@ -125,3 +125,6 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 ./script.sh
 echo $NAME
 echo Lordis
+./script.sh
+./script.sh
+./script.sh < name.txt
